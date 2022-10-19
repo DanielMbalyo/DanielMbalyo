@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DanielMbalyo
-- 👀 I’m interested in building beter application that impact the society
-- 🌱 I’m currently building apps using django and flutter
-- 💞️ I’m looking to collaborate on apps using django and flutter
+- 👀 I’m business driven software developer currating expriences using flutter, react and django
+- 🌱 I’m currently currating expriences using flutter, react and django
+- 💞️ I’m open for projects, participations and inquiries
 - 📫 How to reach me by danmbalyo@gmail.com
 
 <!---
