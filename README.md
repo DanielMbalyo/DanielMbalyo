@@ -3,6 +3,6 @@
 
 - 🌱 I’m currently learning **Scalable and sustainable software architecture.**
 
-- 💬 Ask me about **Django, Flutter, Nextjs, React, Spring Boot, Aws, DevOps**
+- 💬 Ask me about **Spring Boot, Nextjs, Flutter, Django, React, Aws, DevOps**
 
 - 📫 How to reach me **danmbalyo@gmail.com**
